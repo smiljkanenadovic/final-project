@@ -21,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     
 ###  Application functionalities
     Login form
-    Fetch news from https://newsapi.org/ API based on sources
+    Fetch news from https://newsapi.org/  API based on sources
     Fetch Tech news
 
 
