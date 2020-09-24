@@ -21,7 +21,7 @@ You will also see any lint errors in the console.
 ###  Application functionalities
 Login form<br>
 Fetch news from  [News API](https://newsapi.org/)<br>
-Fetch Tech news<br>
+Fetch Tech [News API](https://newsapi.org/<br>
 
 
 
