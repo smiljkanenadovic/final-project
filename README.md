@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technologies
 Axios <br>
-React": 16.8.6"<br>
+React": 16.8.6<br>
 React-dom <br>
 React-redux<br>
 React-router-dom  <br>
@@ -19,9 +19,9 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
     
 ###  Application functionalities
-Login form
-Fetch news from  [News API](https://newsapi.org/).
-Fetch Tech news
+Login form<br>
+Fetch news from  [News API](https://newsapi.org/)<br>
+Fetch Tech news<br>
 
 
 
