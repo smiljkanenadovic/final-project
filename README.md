@@ -8,9 +8,9 @@ React-redux<br>
 React-router-dom  <br>
 
 ### Install application
-git clone https://github.com/smiljkanenadovic/final-project.git
-npm install 
-npm start
+git clone https://github.com/smiljkanenadovic/final-project.git<br>
+npm install <br>
+npm start<br>
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
