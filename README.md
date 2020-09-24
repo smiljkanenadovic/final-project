@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     React-redux
     React-router-dom  
 
-### `Install application`
+### Install application
     git clone https://github.com/smiljkanenadovic/final-project.git
     npm install 
     npm start
