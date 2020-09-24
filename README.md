@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Technologies
-Axios 
-React": 16.8.6"
-React-dom 
-React-redux
-React-router-dom  
+Axios <br>
+React": 16.8.6"<br>
+React-dom <br>
+React-redux<br>
+React-router-dom  <br>
 
 ### Install application
 git clone https://github.com/smiljkanenadovic/final-project.git
