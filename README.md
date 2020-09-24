@@ -1,8 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Technologies
 
-In the project directory, you can run:
+    Axios 
+    React": 16.8.6"
+    React-dom 
+    React-redux
+    React-router-dom  
 
 ### `npm start`
 
