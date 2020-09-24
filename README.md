@@ -20,8 +20,9 @@ You will also see any lint errors in the console.
     
 ###  Application functionalities
 Login form<br>
-Fetch news from  [News API](https://newsapi.org/)<br>
-Fetch Tech [News API](https://newsapi.org/<br>
+Fetch news sources from [News API sources] (http://newsapi.org/v1/sources)<br>
+Fetch news based on source from  [News API articles](http://newsapi.org/v1/articles)<br>
+Fetch Tech [News API tech news](http://newsapi.org/v1/articles)<br>
 
 
 
