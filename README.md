@@ -18,6 +18,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
     The page will reload if you make edits.<br>
     You will also see any lint errors in the console.
+    
+###  Application functionalities
+    Login form
+    Fetch news from https://newsapi.org/ API based on sources
+    Fetch Tech news
 
 
 
