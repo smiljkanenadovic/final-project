@@ -17,7 +17,7 @@ const Main = () => {
     const getCustomNews = (source, relevance) => dispatch(fetchCustomNews(source, relevance));
 
     const getSources = () => {
-        axios.get("http://newsapi.org/v1/sources")
+        axios.get("https://newsapi.org/v1/sources")
         .then(res => {
             return res.data;
             
